@@ -1,6 +1,6 @@
 # Personal Injury Law Firm AI Intake System
 
-A sophisticated, AI-powered client intake system for personal injury law firms built with Streamlit and OpenAI's GPT-4.1. This system streamlines the initial client screening process through an intuitive, conversational interface.
+A simple, AI-powered client intake system for personal injury law firms built with Streamlit and OpenAI's GPT-4.1. This system streamlines the initial client screening process through an intuitive, conversational interface.
 
 ## Overview
 
@@ -40,28 +40,20 @@ This application automates the personal injury case intake process by conducting
 ## Installation
 
 ### Step 1: Clone the Repository
-```bash
+
 git clone https://github.com/your-username/personal-injury-intake.git
 cd personal-injury-intake
 
 ### Step 2: Install Requirements
 
-bash
-
-`pip install streamlit openai python-dotenv`
+pip install streamlit openai python-dotenv
 
 ### Step 3: Create .env File
 
 Create a file named  `.env`  in the project directory:
-
-```
 OPENAI_API_KEY=your_openai_api_key_here
 
-```
-
 ### Step 4: Run the Application
-
-bash
 
 `streamlit run pi_intake_app.py`
 
