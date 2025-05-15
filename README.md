@@ -94,8 +94,7 @@ Ethics are central to this system's design, not an afterthought:
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/your-username/personal-injury-intake.git
-cd personal-injury-intake
+git clone https://github.com/nobantahir/Personal-Injury-Intake-Agent.git
 
 ```
 
@@ -118,7 +117,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ### Step 4: Run the Application
 
 ```
-streamlit run pi_intake_app.py
+streamlit run agent.py
 
 ```
 
