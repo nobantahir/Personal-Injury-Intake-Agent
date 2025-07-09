@@ -13,7 +13,7 @@ This application transforms the personal injury case intake process through inte
 ![AI Agent Demo](demo/LegalAgentExample.gif)
 
 ### Full Demo Video
-https://github.com/nobantahir/Personal-Injury-Intake-Agent/blob/main/demo/AgentDemo.mp4
+https://github.com/nobantahir/Personal-Injury-Intake-Agent/raw/main/demo/AgentDemo.mp4
 
 *See the AI agent in action conducting a client intake interview with intelligent questioning and case assessment*
 
