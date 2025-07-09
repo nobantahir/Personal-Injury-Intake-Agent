@@ -7,6 +7,16 @@ A powerful, AI-powered client intake system for personal injury law firms built 
 
 This application transforms the personal injury case intake process through intelligent, conversational client assessment. It reduces non-billable attorney time while providing 24/7 availability—ultimately allowing legal professionals to focus on practicing law rather than screening potential clients.
 
+## Demo
+
+### Quick Preview
+![AI Agent Demo](demo/LegalAgentExample.gif)
+
+### Full Demo Video
+[Watch Full Demo Video](demo/AgentDemo.mp4)
+
+*See the AI agent in action conducting a client intake interview with intelligent questioning and case assessment*
+
 ## Business Value
 
 ### For Law Firms
